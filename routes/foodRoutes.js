@@ -14,7 +14,7 @@ const foods = [
     name: "Salmon",
     protein: 25,
     servingSize: "100g",
-    category: "Fish",
+    category: "Fish",    
     calories: 208
   },
   {
